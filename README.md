@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Voice Assistant
 
 A decoupled web app with:
@@ -51,3 +52,6 @@ Official references:
 - ElevenLabs free plan: https://elevenlabs.io/ai-voice-generator
 - ElevenLabs TTS quickstart: https://elevenlabs.io/docs/eleven-api/quickstart
 - ElevenLabs speech-to-text: https://elevenlabs.io/docs/api-reference/speech-to-text/convert
+=======
+# voicetotext
+>>>>>>> ddda6d4d07955df7114dc7ccd73ce94fbdfdb5ea
